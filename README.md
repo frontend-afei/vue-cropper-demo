@@ -1,6 +1,6 @@
 # vue-cropper-demo
 
-使用 vue-cropper + element-ui 快速实现头像裁剪功能
+使用 vue-cropper + element-ui 实现头像裁剪功能
 
 掘金地址：https://juejin.cn/post/7020205053147349000
 
